@@ -1,3 +1,8 @@
+# FOR EDUCATIONAL PURPOSES ONLY
+A fork of the YouTube Plus App for iOS and iPadOS.
+Only for Testingpurposes an learning new stuff. 
+
+
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
